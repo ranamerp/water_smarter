@@ -1,4 +1,4 @@
-# Smarter Water
+# Water Smarter
 Giving plants the right amount of water is not only good for the plant but good for the planet. Our project aims to create an adaptive automated watering system using soil moisture sensors and valves.
 
 ## Inspiration

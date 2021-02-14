@@ -1,3 +1,6 @@
+# Smarter Water
+Giving plants the right amount of water is not only good for the plant but good for the planet. Our project aims to create an adaptive automated watering system using soil moisture sensors and valves.
+
 ## Inspiration
 Inspired by [SIU Carbondale's Green Roof](https://greenroof.siu.edu/siu-green-roof/), we wanted to create an automated garden watering system that would help address issues ranging from food deserts to lack of agricultural space to storm water runoff.
 
